@@ -1,13 +1,12 @@
 {
-  "name": "odenktools/laravel-bca",
+  "name": "ivalrivall/laravel-bca",
   "description": "Library REST API Untuk Develop BCA Payment",
   "license": "MIT",
   "keywords": ["bca", "php", "rest", "banking"],
-  "homepage": "https://github.com/odenktools/laravel-bca",
+  "homepage": "https://github.com/ivalrivall/laravel-bca",
   "authors": [{
-    "name": "odenktools",
-    "email": "odenktools86@gmail.com",
-    "homepage": "https://odenktools.com",
+    "name": "ivalrivall",
+    "email": "ivalrival95@gmail.com",
     "role": "Developer"
   }],
   "require": {
